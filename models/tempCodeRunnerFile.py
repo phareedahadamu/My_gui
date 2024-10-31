@@ -1,0 +1,1 @@
+ mylabel= tk.Label(self.frame, text='{} sales'.format(date.today().year), font=("lucida", 18), fg=self.colour1, bg=self.my_bg).place(x=700, y=120)
